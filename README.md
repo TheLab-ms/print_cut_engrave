@@ -42,6 +42,7 @@ If you're using Windows, you can follow our [Install Slic3r and Import TheLab’
 
 Slic3r is in the package repositories of many Linux distributions.  The latest version is currently in the Ubuntu 15.10 "Universe" repository.  If you are going to install through your package manager, make sure you are actually getting the latest version.  A lot of important bugs have been fixed in the last few releases.
 
+
 ## **STEP THREE**: Print your gcode using Octoprint
 
 We currently have two FlashForge Creator Pro 3D Printers.  
@@ -51,8 +52,22 @@ The one on the left is [badger1](https://badger1.thelab.lan/), and the one on th
  * badger1 [10.220.4.30:5000](http://10.220.4.30:5000)
  * badger2 [10.220.4.30:5001](http://10.220.4.30:5001)
  
+ You'll be able to access these IP's via a web browser.
  
- ## **Advanced Techniques**: Print your gcode using Octoprint
+ ### Before you hit that print button
+ - Level the plate (you'll need to be shown how to physically do this)
+ - Hair spray the glass plate (Both PLA and ABS plastics need this!)
+ - Verify you have enough plastic on the spool, and that it will feed cleanly with getting stuck
+ 
+ 
+ 
+ ## **Advanced Techniques**: 
+ 
+ **HELP**
+ 
+ *During a print, the extruder is moving, but no plastic is coming out!* - Try re-leveling the plate. There is a difference between leveling a 'hot' printer and a 'cold' one because of thermal expanion with the metal nozzles expanding.
+ 
+ *My file is only halfway printing!* - It may be because Slic3r only exported half of the file. If you print the item twice and it stops in the same spot, it's probably because the gcode didn't completely export. This is a known issue. Just re-export the item, and MAKE SURE it finishes exporting completely.
  
  
 
