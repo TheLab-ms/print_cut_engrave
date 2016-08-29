@@ -11,7 +11,7 @@
  
 *A note on directions* - left/right extruders are the same left/right when physically FACING the front of the printer, looking into it
  
- ## **STEP ONE**: Acquire or create an STL file
+## **STEP ONE**: Acquire or create an STL file
 
 You can acquire an STL file created by someone else on websites like [Thingiverse](http://thingiverse.com).
 
@@ -50,6 +50,8 @@ The one on the left is [badger1](https://badger1.thelab.lan/), and the one on th
  * badger2 [10.220.4.30:5001](http://10.220.4.30:5001)
  
  You'll be able to access these IP's via a web browser.
+ 
+ *If not, try https://badger1.thelab.lan - you'll have to accept an invalid certificate*
  
  ### Before you hit that print button
 - Level the plate (you'll need to be shown how to physically do this)
