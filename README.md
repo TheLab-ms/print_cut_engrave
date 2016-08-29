@@ -6,9 +6,9 @@
  
   ## **In General, pre-steps**: 
   
-  > Acquire a 3D model (a STL file) of what you want to print
-  > Take STL file, feed to Slic3r, export g-code with correct settings
-  > Feed g-code to printer
+  - Acquire a 3D model (a STL file) of what you want to print
+  - Take STL file, feed to Slic3r, export g-code with correct settings
+  - Feed g-code to printer
  
  
   *A note on directions* - left/right extruders are the same left/right when physically FACING the front of the printer, looking into it
