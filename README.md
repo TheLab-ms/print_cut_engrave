@@ -34,7 +34,16 @@ We have a [configuration bundle for Slic3r](https://github.com/TheLab-ms/3d-prin
 
 You'll want to hit **"File->Load Config Bundle"** to import our config bundle.  You'll only need to do this part once.
 
-From this point, all you need to do is "add" your STL file to Slic3r's build plate, and hit the "export gcode" button.
+From this point, all you need to do is "add" your STL file to Slic3r's build plate.
+
+Select a nozzle to extrude from (right click and hit 'settings' while highlighting the model) -
+
+- Default = right nozzle
+- 1 = right nozzle
+- 2 = left nozzle
+
+
+ and hit the "export gcode" button.
 
 * [Slic3r Download](http://slic3r.org/download) for Linux, Mac, and Windows
 * [Getting Slic3r](http://manual.slic3r.org/getting-slic3r/getting-slic3r) from the Slic3r manual
@@ -52,6 +61,12 @@ The one on the left is [badger1](https://badger1.thelab.lan/), and the one on th
  You'll be able to access these IP's via a web browser.
  
  *If not, try https://badger1.thelab.lan - you'll have to accept an invalid certificate*
+ 
+ **login username** - thelab
+ **login password** - password
+ 
+ 
+ 
  
  ### Before you hit that print button
 - Level the plate (you'll need to be shown how to physically do this)
