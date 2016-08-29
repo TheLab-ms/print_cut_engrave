@@ -66,6 +66,10 @@ The one on the left is [badger1](https://badger1.thelab.lan/), and the one on th
  
  *During a print, the extruder is moving, but no plastic is coming out!* - Try re-leveling the plate. There is a difference between leveling a 'hot' printer and a 'cold' one because of thermal expanion with the metal nozzles expanding.
  
+ OR Make sure you have a extruder set besides 'default' in Slic3r. (Currently unsure on this)
+ 
+ OR Make sure that the nozzle isn't clogged - "load filament" on the printer and validate that it will print with the current nozzle
+ 
  *My file is only halfway printing!* - It may be because Slic3r only exported half of the file. If you print the item twice and it stops in the same spot, it's probably because the gcode didn't completely export. This is a known issue. Just re-export the item, and MAKE SURE it finishes exporting completely.
  
  
