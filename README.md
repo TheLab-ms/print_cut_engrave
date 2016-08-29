@@ -4,6 +4,15 @@
  * [Slic3r Config Bundle](https://github.com/TheLab-ms/3d-printing/blob/master/Slic3r_config_bundle.ini)
  
  
+  ## **In General, pre-steps**: 
+  
+  > Acquire a 3D model (a STL file) of what you want to print
+  > Take STL file, feed to Slic3r, export g-code with correct settings
+  > Feed g-code to printer
+ 
+ 
+  *A note on directions* - left/right extruders are the same left/right when physically FACING the front of the printer, looking into it
+ 
  ## **STEP ONE**: Acquire or create and STL file
 
 You can acquire an STL file created by someone else on websites like [Thingiverse](http://thingiverse.com).
