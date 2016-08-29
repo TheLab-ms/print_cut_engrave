@@ -24,6 +24,10 @@ Some simple models to try for your first 3D print:
 
 ## **STEP TWO**: Slice your STL file
 
+If you're using Windows -> [Install Slic3r and Import TheLab’s Slic3r Configuration File Bundle for Windows](https://github.com/TheLab-ms/3d-printing/blob/master/Install%20Slic3r%20and%20Import%20TheLab%E2%80%99s%20Slic3r%20Configuration%20File%20Bundle%20for%20Windows.pdf) 
+
+Slic3r is in the package repositories of many Linux distributions.  The latest version is currently in the Ubuntu 15.10 "Universe" repository.  If you are going to install through your package manager, make sure you are actually getting the latest version.  A lot of important bugs have been fixed in the last few releases.
+
 We have a [configuration bundle for Slic3r](https://github.com/TheLab-ms/3d-printing/blob/master/Slic3r_config_bundle.ini) that is all set up for use with our FlashForge Creator Pro printers.  
 
 **Don't go through Slic3r's configuration wizard.**  Just cancel it.  
@@ -34,11 +38,6 @@ From this point, all you need to do is "add" your STL file to Slic3r's build pla
 
 * [Slic3r Download](http://slic3r.org/download) for Linux, Mac, and Windows
 * [Getting Slic3r](http://manual.slic3r.org/getting-slic3r/getting-slic3r) from the Slic3r manual
-
-
-If you're using Windows, you can follow our [Install Slic3r and Import TheLab’s Slic3r Configuration File Bundle for Windows](https://github.com/TheLab-ms/3d-printing/blob/master/Install%20Slic3r%20and%20Import%20TheLab%E2%80%99s%20Slic3r%20Configuration%20File%20Bundle%20for%20Windows.pdf) document.
-
-Slic3r is in the package repositories of many Linux distributions.  The latest version is currently in the Ubuntu 15.10 "Universe" repository.  If you are going to install through your package manager, make sure you are actually getting the latest version.  A lot of important bugs have been fixed in the last few releases.
 
 
 ## **STEP THREE**: Print your gcode using Octoprint
@@ -52,10 +51,10 @@ The one on the left is [badger1](https://badger1.thelab.lan/), and the one on th
  
  You'll be able to access these IP's via a web browser.
  
- ###### Before you hit that print button
- - Level the plate (you'll need to be shown how to physically do this)
- - Hair spray the glass plate (Both PLA and ABS plastics need this!)
- - Verify you have enough plastic on the spool, and that it will feed cleanly with getting stuck
+ ### Before you hit that print button
+- Level the plate (you'll need to be shown how to physically do this)
+- Hair spray the glass plate (Both PLA and ABS plastics need this!)
+- Verify you have enough plastic on the spool, and that it will feed cleanly with getting stuck
  
  
  
