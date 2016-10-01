@@ -73,7 +73,7 @@ The one on the left is [badger1](https://badger1.thelab.lan/), and the one on th
 - Hair spray the glass plate (Both PLA and ABS plastics need this!)
 - Verify you have enough plastic on the spool, and that it will feed cleanly with getting stuck
  
-**Make sure it's a filament that prints at normal speed* - most filament is okay, but currently the white has to print at 80% speed. To set this up, start a print and physically go to the printer, arrow down, and select "Change Speed". For white, set it to 80%.
+**Make sure it's a filament that prints at normal speed** - most filament is okay, but currently the white has to print at 80% speed. To set this up, start a print and physically go to the printer, arrow down, and select "Change Speed". For white, set it to 80%.
  
  
  ## **Advanced Techniques**: 
