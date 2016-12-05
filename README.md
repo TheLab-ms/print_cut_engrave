@@ -3,6 +3,10 @@
 * [3D Printing Cheat Sheet](https://github.com/TheLab-ms/3d-printing/wiki/TheLab.ms's-3D-Printing-Cheat-Sheet)
 * [Slic3r Config Bundle](https://github.com/TheLab-ms/3d-printing/blob/master/Slic3r_config_bundle.ini)
 
+## Where can I get help with my first prints?!
+
+There lots of friendly people at TheLab.ms that know how to use the printers, and they'd also be happy to help you get started.  If you sign into [Slack][httpL//thelab.slack.com] and join the `3d_printing` channel.  You can make arrangements with someone there to meet you at TheLab.ms and show you the ropes.
+
 ## **In General, pre-steps**:   
 - Acquire a 3D model (a STL file) of what you want to print
 - Take STL file, feed to Slic3r, export g-code with correct settings
