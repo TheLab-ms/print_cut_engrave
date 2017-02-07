@@ -57,14 +57,14 @@ Select a nozzle to extrude from (right click and hit 'settings' while highlighti
 
 We currently have two FlashForge Creator Pro 3D Printers.  
 
-The one on the left is [badger1](https://badger1.thelab.lan/), and the one on the right is [badger2](https://badger2.thelab.lan/). They also have namebadges physically on the front of them so you can tell them apart!
+The one on the left is [badger1](http://badger1.thelab.lan/), and the one on the right is [badger2](http://badger2.thelab.lan/). They also have namebadges physically on the front of them so you can tell them apart!
 
  * badger1 [10.220.4.30:5000](http://10.220.4.30:5000)
  * badger2 [10.220.4.30:5001](http://10.220.4.30:5001)
  
  You'll be able to access these IP's via a web browser.
  
- *If not, try https://badger1.thelab.lan - you'll have to accept an invalid certificate*
+ *If not, try http://badger1.thelab.lan or http://badger2.thelab.lan*
  
  **login username** - thelab
  **login password** - password
@@ -80,7 +80,7 @@ The one on the left is [badger1](https://badger1.thelab.lan/), and the one on th
 **Make sure it's a filament that prints at normal speed** - most filament is okay, but currently the white has to print at 80% speed. To set this up, start a print and physically go to the printer, arrow down, and select "Change Speed". For white, set it to 80%.
  
  
- ## **Advanced Techniques**: 
+## **Advanced Techniques**: 
  
  **HELP**
  
