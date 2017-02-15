@@ -59,8 +59,8 @@ We currently have two FlashForge Creator Pro 3D Printers.
 
 The one on the left is [badger1](http://badger1.thelab.lan/), and the one on the right is [badger2](http://badger2.thelab.lan/). They also have namebadges physically on the front of them so you can tell them apart!
 
- * badger1 [http://badger1.thelab.lan/](http://badger2.thelab.lan)
- * badger2 [http://badger2.thelab.lan](http://badger1.thelab.lan)
+ * badger1 [http://badger1.thelab.lan/](http://badger1.thelab.lan)
+ * badger2 [http://badger2.thelab.lan](http://badger2.thelab.lan)
  * harambe2 [http://harambe2.thelab.lan](http://harambe2.thelab.lan)
  
  **login username** - thelab
