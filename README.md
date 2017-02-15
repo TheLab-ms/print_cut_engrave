@@ -5,7 +5,7 @@
 
 ## Where can I get help with my first prints?!
 
-There lots of friendly people at TheLab.ms that know how to use the printers, and they'd also be happy to help you get started.  If you sign into [Slack][httpL//thelab.slack.com] and join the `3d_printing` channel.  You can make arrangements with someone there to meet you at TheLab.ms and show you the ropes.
+There lots of friendly people at TheLab.ms that know how to use the printers, and they'd also be happy to help you get started.  If you sign into [Slack][https://thelab.slack.com] and join the `3d_printing` channel.  You can make arrangements with someone there to meet you at TheLab.ms and show you the ropes.
 
 ## **In General, pre-steps**:   
 - Acquire a 3D model (a STL file) of what you want to print
@@ -59,12 +59,9 @@ We currently have two FlashForge Creator Pro 3D Printers.
 
 The one on the left is [badger1](http://badger1.thelab.lan/), and the one on the right is [badger2](http://badger2.thelab.lan/). They also have namebadges physically on the front of them so you can tell them apart!
 
- * badger1 [10.220.4.30:5000](http://10.220.4.30:5000)
- * badger2 [10.220.4.30:5001](http://10.220.4.30:5001)
- 
- You'll be able to access these IP's via a web browser.
- 
- *If not, try http://badger1.thelab.lan or http://badger2.thelab.lan*
+ * badger1 [http://badger1.thelab.lan/](http://badger2.thelab.lan)
+ * badger2 [http://badger2.thelab.lan](http://badger1.thelab.lan)
+ * harambe2 [http://harambe2.thelab.lan](http://harambe2.thelab.lan]
  
  **login username** - thelab
  **login password** - password
@@ -90,7 +87,7 @@ The one on the left is [badger1](http://badger1.thelab.lan/), and the one on the
  
  **OR** Make sure that the nozzle isn't clogged - "load filament" on the printer and validate that it will print with the current nozzle
  
- *My file is only halfway printing!* - It may be because Slic3r only exported half of the file. If you print the item twice and it stops in the same spot, it's probably because the gcode didn't completely export. This is a known issue. Just re-export the item, and MAKE SURE it finishes exporting completely.
+ *My file is only halfway printing!* - It may be because Slic3r only exported half of the file. If you print the item twice and it stops in the same spot, it's probably because the gcode didn't completely export. Don't upload the gcode file to Octoprint until Slic3r has actually finished exporting the file. Just re-export the item, and MAKE SURE it finishes exporting completely.
  
  
  
