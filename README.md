@@ -5,7 +5,7 @@
 
 ## Where can I get help with my first prints?!
 
-There lots of friendly people at TheLab.ms that know how to use the printers, and they'd also be happy to help you get started.  If you sign into [Slack][https://thelab.slack.com] and join the `3d_printing` channel.  You can make arrangements with someone there to meet you at TheLab.ms and show you the ropes.
+There lots of friendly people at TheLab.ms that know how to use the printers, and they'd also be happy to help you get started.  If you sign into [Slack](https://thelab.slack.com) and join the `3d_printing` channel.  You can make arrangements with someone there to meet you at TheLab.ms and show you the ropes.
 
 ## **In General, pre-steps**:   
 - Acquire a 3D model (a STL file) of what you want to print
@@ -61,7 +61,7 @@ The one on the left is [badger1](http://badger1.thelab.lan/), and the one on the
 
  * badger1 [http://badger1.thelab.lan/](http://badger2.thelab.lan)
  * badger2 [http://badger2.thelab.lan](http://badger1.thelab.lan)
- * harambe2 [http://harambe2.thelab.lan](http://harambe2.thelab.lan]
+ * harambe2 [http://harambe2.thelab.lan](http://harambe2.thelab.lan)
  
  **login username** - thelab
  **login password** - password
